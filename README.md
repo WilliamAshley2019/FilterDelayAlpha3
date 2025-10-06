@@ -1,7 +1,10 @@
+Delay Filter Alpha 3 Plugin
+
 I still need to make a readme for this it is GPL 3 Juce and VST3 license terms. I will update these when I am done with this concept.
 
 Note that to hear this plugin well put mix at position 1.0 which is fully wet, vs the default 0.5 (mixed wet/dry).
-DelayFilterPlugin![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
+Delay Filter Alpha 3 Plugin
+![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
 ![JUCE](https://img.shields.io/badge/JUCE-8.0.9-green)
 ![VST3](https://img.shields.io/badge/VST3-3.7.0-orange)
 
@@ -36,3 +39,6 @@ Redistribution of the VST3 SDK is not permitted. For full terms, see VST3_SDK/Li
 Built on October 06, 2025.
 
 
+Future Intentions:
+Get better CPU function.
+Consider modernizing the GUI.
